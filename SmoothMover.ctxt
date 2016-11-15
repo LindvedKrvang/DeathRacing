@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=SmoothMover
+comment0.text=\r\n\ A\ Mover\ is\ an\ actor\ that\ also\ has\ 'move'\ and\ 'turn'\ ability.\ Both\ moving\ and\ turning\ \r\n\ are\ relative\ to\ its\ current\ position.\ When\ moving,\ the\ Mover\ will\ move\ in\ the\ direction\ \r\n\ it\ is\ currently\ facing.\r\n\ \r\n\ Both\ 'move'\ and\ 'turn'\ methods\ are\ available\ with\ or\ without\ parameters.\r\n\ \r\n\ The\ 'Mover'\ class\ is\ a\ subclass\ of\ Actor.\ It\ can\ be\ used\ by\ creating\ subclasses,\ or\r\n\ copied\ into\ scenarios\ and\ edited\ inline.\r\n\ \r\n\ The\ initial\ direction\ is\ to\ the\ right.\ Thus,\ this\ class\ works\ best\ with\ images\ that\r\n\ face\ right\ when\ not\ rotated.\r\n\ \r\n\ This\ is\ extended\ from\ the\ Mover\ class.\r\n\ Credit\ to\ Michael\ Kolling\r\n\ \r\n\ @author\ MathManiac(via\ Greenfoot)\r\n\ @version\ Unknown\r\n
+comment1.params=keyUp\ keyDown\ keyLeft\ keyRight
+comment1.target=SmoothMover(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ turn()
+comment3.text=\r\n\ Turn\ 90\ degrees\ to\ the\ right\ (clockwise).\r\n
+comment4.params=
+comment4.target=void\ move()
+comment4.text=\r\n\ Move\ a\ bit\ forward\ in\ the\ current\ direction.\r\n
+comment5.params=distance
+comment5.target=void\ move(double)
+comment5.text=\r\n\ Move\ a\ specified\ distance\ forward\ in\ the\ current\ direction.\r\n
+comment6.params=
+comment6.target=void\ keyboardAccel()
+comment7.params=speed
+comment7.target=void\ setSpeed(double)
+comment7.text=\r\n\ Sets\ the\ speed\ of\ the\ player.\r\n
+comment8.params=
+comment8.target=double\ getSpeed()
+comment8.text=\r\n\ Return\ the\ speed\ of\ the\ player.\r\n
+numComments=9

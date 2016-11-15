@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DisplayWinner
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ DisplayWinner\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=imageOfWinner
+comment1.target=DisplayWinner(greenfoot.GreenfootImage)
+numComments=2

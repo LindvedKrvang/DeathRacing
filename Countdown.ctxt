@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Countdown
+comment0.text=\r\n\ makes\ a\ countdown\ before\ game\ start.\r\n\ \r\n\ @\ \r\n\ @\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Countdown\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=Countdown()
+comment2.text=\r\n\ construter.\r\n
+comment3.params=
+comment3.target=void\ imageSwitch()
+comment3.text=\r\n\ switchs\ image\ when\ a\ set\ amounts\ of\ act\ has\ been\ done.\r\n
+comment4.params=
+comment4.target=boolean\ canDrive()
+comment4.text=\r\n\ Return\ the\ canDrive\ boolean.\r\n
+numComments=5

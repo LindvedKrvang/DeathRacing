@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=DeathRaceWorld
+comment0.text=\r\n\ The\ Death\ Race\ is\ starting,\ fasten\ your\ seatbelts.\r\n\ \r\n\ @author\ Group\ 3\ \r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=DeathRaceWorld()
+comment2.params=gameStarted
+comment2.target=DeathRaceWorld(boolean)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ DeathRaceWorld.\r\n
+comment3.params=
+comment3.target=java.util.List\ getQueuedPheromones()
+comment3.text=\r\n\ Return\ the\ trailList.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ changeImage()
+comment5.text=\r\n\ Change\ the\ image\ on\ runtime\ to\ give\ the\ idea\ of\ motion.\r\n
+comment6.params=image
+comment6.target=void\ displayWinner(greenfoot.GreenfootImage)
+comment7.params=
+comment7.target=void\ prepare()
+comment7.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment8.params=
+comment8.target=void\ createPheromones()
+comment8.text=\r\n\ Create\ the\ pheromones\ for\ the\ AI\ to\ follow.\r\n
+numComments=9

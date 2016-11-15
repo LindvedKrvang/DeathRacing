@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PheromoneTrail
+comment0.text=\r\n\ Pheromones\ are\ dropped\ by\ ants\ when\ they\ want\ to\ communicate\ something\ to\r\n\ other\ ants.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.1\r\n
+comment1.params=
+comment1.target=PheromoneTrail()
+comment1.text=\r\n\ Create\ a\ new\ drop\ of\ pheromone\ with\ full\ intensity.\r\n
+comment2.params=
+comment2.target=void\ updateImage()
+comment2.text=\r\n\ Make\ the\ image.\ The\ size\ and\ transparency\ are\ proportional\ to\ the\ intensity.\r\n
+numComments=3

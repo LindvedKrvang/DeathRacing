@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Oil
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Oil\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Oil()
+comment2.params=
+comment2.target=int\ getNumberOfWeapon()
+comment2.text=\r\n\ Return\ the\ number\ of\ the\ weapon\ to\ indentify\ it.\r\n
+numComments=3

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PowerUp
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Powerup\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=xCoordinate\ yCoordinate
+comment1.target=PowerUp(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Powerup\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=int\ getKindOfPowerUp()
+comment3.text=\r\n\ Return\ the\ kind\ of\ PowerUp.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getVisualOfPowerUp()
+comment4.text=\r\n\ Gets\ the\ name\ of\ the\ png\ for\ the\ PowerUp.\r\n
+comment5.params=beenPickedUp
+comment5.target=void\ setBeenPickedUp(boolean)
+comment5.text=\r\n\ Set\ beenPickedUp.\r\n
+comment6.params=
+comment6.target=void\ relocate()
+comment6.text=\r\n\ When\ picked\ up.\ Relocate\ to\ outside\ of\ the\ screen.\ After\ a\ while\ relocate\ it\ back\ at\ its\ original\ position.\r\n
+numComments=7

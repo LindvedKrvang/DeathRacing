@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Mine
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Mine\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Mine()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Mine\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=int\ getNumberOfWeapon()
+comment3.text=\r\n\ Return\ the\ number\ of\ the\ weapon\ to\ indentify\ it.\r\n
+comment4.params=
+comment4.target=void\ animation()
+comment4.text=\r\n\ Switch\ the\ image\ of\ the\ missile.\r\n
+numComments=5

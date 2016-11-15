@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WinningWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ WinningWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=imageOfWinner
+comment1.target=WinningWorld(greenfoot.GreenfootImage)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WinningWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkEnter()
+comment3.text=\r\n\ If\ enter\ has\ been\ clicked,\ set\ world\ to\ introworld.\r\n
+numComments=4
